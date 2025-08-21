@@ -4,4 +4,4 @@ simply start the server and it will start running by default port is 8080
 you can see the routes in controller
 
 Link to the repo
-https://github.com/builtDifferentCoder/blog-api.git
+https://github.com/builtDifferentCoder/blog-api
